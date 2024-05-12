@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://sourabh-rawat.netlify.app](https://sourabhrawat.netlify.app)
+- 👨‍💻 All of my projects are available at [https://sourabhrawat.netlify.app](https://sourabhrawat.netlify.app)
 
 - 💬 Ask me about **Frontend Development**
 
