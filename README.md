@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=sourabh782&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![Mastan  (21)](https://github.com/Sourabh782/Sourabh782/blob/main/Banner.png?raw=true)
+![sourabh782  (21)](https://github.com/Sourabh782/Sourabh782/blob/main/Banner.png?raw=true)
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sourabh782/"  target=”_blank”>Sourabh Singh Rawat</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
@@ -47,8 +47,10 @@
         </ul>
       </td>
     </tr>
-    
   </table>
+  <div align="center">
+  <img width="600em" src="https://github.com/Sourabh782/Sourabh782/blob/main/gssoc.png?raw=true" alt="Profile Summary" >
+  </div>
 </details>
 
 <br>
