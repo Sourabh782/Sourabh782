@@ -12,7 +12,7 @@
 - 🌱 **Currently Exploring:** DSA <br>
 - 💬 Ask Me About: JAVA, SQL, FRONTEND, BACKEND, CHESS or anything. <br>
 - 📫 Reach Me At: [sourabhsinghrawat782@gmail.com](mailto:sourabhsinghrawat782@gmail.com) <br>
-- ⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
+- ⚡ About Me: **A Social Being with a touch of intelligence.** <br>
 - 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
 - 🌎 I Know English, Hindi. <br>
 - 📍 **Location:** India <br>
