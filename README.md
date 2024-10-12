@@ -34,9 +34,6 @@
 
 ## HACKTOBER Badges 🪶
 
-<div style="width:100%">
-  [(https://holopin.me/sourabh782)](https://holopin.io/@sourabh782)
-</div>
 [![An image of @sourabh782's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sourabh782)](https://holopin.io/@sourabh782)
 
 <br>
