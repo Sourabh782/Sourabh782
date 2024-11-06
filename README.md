@@ -15,7 +15,7 @@
 - ⚡ About Me: **A Social Being with a touch of knowledge.** <br>
 - 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
 - 🌎 I Know English, Hindi. <br>
-- 📍 **Location:** India <br>
+- 📍 **Location:** Gurugram, Haryana, India <br>
 
 <br>
 <br>
@@ -28,6 +28,8 @@
   <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/6.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/7.png" width="100px" height="100px" />
 </div>
 <br>
 <br>
