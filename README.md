@@ -5,6 +5,8 @@
 ![sourabh782  (21)](https://github.com/Sourabh782/Sourabh782/blob/main/Banner.png?raw=true)
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sourabh782/"  target=”_blank”>Sourabh Singh Rawat</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+Hi+there,+I'm+Sourabh+Singh+Rawat!" align="middle" alt="Hi there, I'm Sourabh Singh Rawat! animated typed out">
+
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
