@@ -48,7 +48,7 @@
     <tr>
     </tr>
     <tr>
-      <td>GirlScript Summer of Code (GSSoC'24) </td>
+      <td>GirlScript Summer of Code - Extd (GSSoC'24-Extd) </td>
       <td>
         <ul>
           <li>Role: <strong>Open Source Contributor</strong></li>
