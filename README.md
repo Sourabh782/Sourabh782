@@ -59,6 +59,24 @@
     </tr>
   </table>
   <div align="center">
+  <img width="600em" src="https://github.com/Sourabh782/Sourabh782/blob/main/GSSoC24ExtdBanner.png?raw=true" alt="Profile Summary" >
+  </div>
+  <br>
+  <table width="100%" align="center">
+    <tr>
+    </tr>
+    <tr>
+      <td>GirlScript Summer of Code (GSSoC'24) </td>
+      <td>
+        <ul>
+          <li>Role: <strong>Open Source Contributor</strong></li>
+          <li>Contributed to multiple open-source projects.</li>
+          <li>Fixed UI/UX issues, added FAQs, and enhanced features.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+  <div align="center">
   <img width="600em" src="https://github.com/Sourabh782/Sourabh782/blob/main/gssoc.png?raw=true" alt="Profile Summary" >
   </div>
 </details>
